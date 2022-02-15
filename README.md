@@ -3,7 +3,7 @@ A piano playing bot that senses the user's attention and meditation levels to pl
 
 ## Demo:
 
-https://youtu.be/WFdcoAJKBH4
+https://youtu.be/wSluF8V9q_E
 
 ## Pictures:
 
